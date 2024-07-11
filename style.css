@@ -1,0 +1,89 @@
+
+
+.main-div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:550px;
+    height: 866px;
+    background-color: #23252C;
+}
+
+.main-frame{
+    width:317px;
+    height: 780px;
+    background-color: #1A1B21;
+    justify-items:center;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+     flex-direction: column;
+}
+
+.frame-photo{
+    width:317px;
+    height: 317px;
+}
+.main-name{
+    margin: 5px;
+    font-size:25px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.main-desig{
+    margin: 0px;
+    font-size:12.8px;
+    color: #F3BF99;
+    text-align: center;
+}
+.main-web{
+    display:flex;
+    font-size:10.24px;
+    color: #F5F5F5;
+    justify-content: center;
+}
+.main-email{
+    display:flex;
+    gap:10px;
+    font-size:14px;
+    color: #374151;
+    justify-content: center;
+    line-height: 16px;
+    width:247px;
+    height: 34px;
+    align-content: center;
+    background-color: #FFFFFF;
+    align-items:center;
+    margin-top: 20px;
+    justify-items:center;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+
+.main-para{
+    color: #DCDCDC;
+    font-size:10.24px;
+    line-height:15px;
+    padding:25px 40px
+}
+.main-para>h5{
+    font-style:bold;
+    font-size:16px;
+    line-height:15px;
+}
+
+.main-footer{
+    display:flex;
+    background-color: #161619;
+     justify-items:center;
+     align-items:center;
+      width:317px;
+    height: 64px;
+     gap: 20px;
+     justify-content: center;
+}
+.footer-social{
+    width:25px;
+    height: 25px; 
+}

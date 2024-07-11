@@ -1,4 +1,4 @@
-Designing of a business card using Reactjs, HTML, CSS
+# Designing of a business card using Reactjs, HTML, CSS
 
 # Getting Started
 Install the dependencies and run the project in watch mode

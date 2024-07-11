@@ -1,3 +1,5 @@
+Designing of a business card using Reactjs, HTML, CSS
+
 # Getting Started
 Install the dependencies and run the project in watch mode
 ```
@@ -18,3 +20,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+

@@ -1,4 +1,5 @@
 # Designing of a business card using Reactjs, HTML, CSS
+Demonstrates front-end development skills with a focus on creating an elegant and functional card that adapts well to various screen sizes.
 Designed using Scrimba and bundled using Webpack in VS Code
 
 # Getting Started
